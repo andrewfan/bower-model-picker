@@ -1,0 +1,17 @@
+{
+  "name": "bower-model-picker",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andrewfan/bower-model-picker",
+  "authors": [
+    "Andrew Fan <andrew.fan@upsilonit.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
